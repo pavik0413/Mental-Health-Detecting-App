@@ -1,4 +1,4 @@
-![alt text](https://github.com/alanahodge/Moody/blob/master/screenshots/moodylogo.PNG)
+![alt text](https://github.com/pavik0413/Mental-Health-Detecting-App/blob/main/Moody.jpeg)
 
 ## Moody
 
